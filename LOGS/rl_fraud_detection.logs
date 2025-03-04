@@ -2,3 +2,13 @@
 2025-03-03 21:47:59,981-__main__-INFO-Loading and Cleaning the Dataset
 2025-03-03 21:47:59,985-__main__-INFO-Handling Missing Values
 2025-03-03 21:47:59,993-__main__-INFO-Cleaned Dataset Saved
+2025-03-04 21:05:22,318-__main__-INFO-Loading the Cleaned Dataset
+2025-03-04 21:05:22,584-__main__-INFO-Standardizing, Encoding and Transforming 
+2025-03-04 21:08:05,636-__main__-INFO-Loading the Cleaned Dataset
+2025-03-04 21:08:05,737-__main__-INFO-Standardizing, Encoding and Transforming 
+2025-03-04 21:08:05,798-__main__-INFO-Handling Class Imbalance using SMOTE
+2025-03-04 21:08:06,556-__main__-INFO-Data Preprocessing Completed
+2025-03-04 21:09:14,453-__main__-INFO-Loading the Cleaned Dataset
+2025-03-04 21:09:14,540-__main__-INFO-Standardizing, Encoding and Transforming 
+2025-03-04 21:09:14,612-__main__-INFO-Handling Class Imbalance using SMOTE
+2025-03-04 21:09:15,040-__main__-INFO-Data Preprocessing Completed
