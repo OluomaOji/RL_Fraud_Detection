@@ -1,0 +1,4 @@
+2025-03-03 21:47:59,897-__main__-INFO-Initiating Data Ingestion Process
+2025-03-03 21:47:59,981-__main__-INFO-Loading and Cleaning the Dataset
+2025-03-03 21:47:59,985-__main__-INFO-Handling Missing Values
+2025-03-03 21:47:59,993-__main__-INFO-Cleaned Dataset Saved

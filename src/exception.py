@@ -1,5 +1,5 @@
 import sys
-from src.logging import logging
+from src.logging import get_logger
 
 class RL_Exception(Exception):
     " Exception Configuration "
